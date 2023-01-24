@@ -151,7 +151,7 @@ class _ChatScreenState extends State<ChatScreen> {
             ),
 
             hintText: 'Message',
-            // label: Text("Your Password"),
+          
           )),
     );
   }
